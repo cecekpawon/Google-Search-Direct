@@ -2,14 +2,8 @@
 
 Eliminate Google redirect search results
 
-```
-#wikipedia: List of Google domains
-https://en.wikipedia.org/wiki/List_of_Google_domains
-
-```
-
 ## Install
-https://github.com/cecekpawon/Google-Search-Direct/raw/master/releases/Google-Search-Direct.user.js
+[Google-Search-Direct.user.js](https://github.com/cecekpawon/Google-Search-Direct/raw/master/releases/Google-Search-Direct.user.js)
 
 ## Dev
 
