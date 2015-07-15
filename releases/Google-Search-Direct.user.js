@@ -4,7 +4,7 @@
 // @namespace      http://blog.thrsh.net
 // @author         daYOda (THRSH)
 // @description    Eliminate Google redirect search results
-// @version        1.0
+// @version        1.1
 // @updateURL      https://github.com/cecekpawon/Google-Search-Direct/raw/master/releases/Google-Search-Direct.meta.js
 // @downloadURL    https://github.com/cecekpawon/Google-Search-Direct/raw/master/releases/Google-Search-Direct.user.js
 // @grant          none
