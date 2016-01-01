@@ -1,4 +1,4 @@
 // ==UserScript==
 // @name        Google Search Direct
-// @version     1.2
+// @version     1.3
 // ==/UserScript==
